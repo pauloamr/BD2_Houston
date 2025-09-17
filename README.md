@@ -1,1 +1,1 @@
-Back up arquivos Banco de Dados 2 da turma do Prof. José Wellington.
+Back up dos meus arquivos de Banco de Dados 2 ministrads pelo Prof. José Wellington.
